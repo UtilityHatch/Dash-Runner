@@ -861,7 +861,7 @@ export default function App() {
       <header className="w-full border-b border-slate-200 bg-white">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between gap-3">
           <span className="font-display text-lg sm:text-xl font-bold tracking-tight text-slate-900 whitespace-nowrap shrink-0">
-            Sora Rose Dash
+            Dash Runner
           </span>
 
           <div className="hidden md:flex items-center gap-3 text-sm text-slate-500 whitespace-nowrap shrink-0">
